@@ -1,0 +1,29 @@
+{
+  "name": "fdat",
+  "version": "1.0.0",
+  "description": "extensible file info crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moriczgergo/fdat.git"
+  },
+  "keywords": [
+    "file",
+    "info",
+    "analyze"
+  ],
+  "author": "skiilaa",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/moriczgergo/fdat/issues"
+  },
+  "homepage": "https://github.com/moriczgergo/fdat#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "require-all": "^3.0.0"
+  }
+}
